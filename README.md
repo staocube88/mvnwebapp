@@ -1,2 +1,2 @@
 # mvnwebapp
-devops with maven build
+devops with maven build and tested with apache tomcat server
